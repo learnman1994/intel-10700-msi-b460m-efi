@@ -15,8 +15,7 @@ b460m的黑苹果efi文件
 可能出现的问题：睡眠后按键无法唤醒  
 解决办法：我目前没有找到完美的解决办法，只能通过点按机箱电源键来唤醒，如果有大神有更完美的解决办法，请知悉我，感谢。  
 
-如果你想使用imessage以及facetime功能，请自己省成本并注入新的三码，方法请参考下方链接：  
+如果你想使用imessage以及facetime功能，请自己生成本并注入新的三码，方法请参考下方链接：  
 https://dortania.github.io/OpenCore-Post-Install/universal/iservices.html#generate-a-new-serial  
 
 希望愿意折腾的兄弟们，安装顺利
-
